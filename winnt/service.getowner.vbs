@@ -1,5 +1,5 @@
-domain		= "dlva"
-cn        = "s-deino"
+domain	= "dlva"
+cn      = "s-deino"
 
 
 set computer = GetObject("WinNT://" & domain & "/" & cn & ",computer")
