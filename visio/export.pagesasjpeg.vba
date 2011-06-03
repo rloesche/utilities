@@ -1,5 +1,5 @@
 Sub exjpeg()
- 	Application.ActiveDocument.Save
+  Application.ActiveDocument.Save
   Dim ps As Pages
   Dim p As Page
   Path = Application.ActiveDocument.Path
