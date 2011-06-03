@@ -1,6 +1,7 @@
 domain		= "dlva"
 cn        = "s-deino"
 
+
 set computer = GetObject("WinNT://" & domain & "/" & cn & ",computer")
 
 computer.filter =Array("service")
