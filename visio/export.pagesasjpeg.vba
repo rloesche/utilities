@@ -1,3 +1,5 @@
+'Export all sheets 
+
 Sub exjpeg()
   Application.ActiveDocument.Save
   Dim ps As Pages
