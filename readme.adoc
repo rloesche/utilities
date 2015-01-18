@@ -5,3 +5,7 @@
 = winnt~vbs
 
 * Services
+
+= Powershell
+
+* install.telnet.ps1
