@@ -1,11 +1,11 @@
-= Visio
+== Visio
 
 * export pictures from visio
 
-= winnt~vbs
+== winnt~vbs
 
 * Services
 
-= Powershell
+== Powershell
 
 * install.telnet.ps1
